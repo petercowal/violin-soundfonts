@@ -1,0 +1,10 @@
+
+<group> //sustained harmonics
+off_mode=normal
+ampeg_attack=0.001
+ampeg_release=3
+volume=12
+<region>sample=harmonics\harmonic_g_unlooped.wav lokey=0 hikey=58 pitch_keycenter=55 tune=10
+<region>sample=harmonics\harmonic_d_unlooped.wav lokey=59 hikey=65 pitch_keycenter=62
+<region>sample=harmonics\harmonic_a_unlooped.wav lokey=66 hikey=72 pitch_keycenter=69 tune=5
+<region>sample=harmonics\harmonic_e_unlooped.wav lokey=73 hikey=127 pitch_keycenter=76

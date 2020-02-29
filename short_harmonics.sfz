@@ -1,0 +1,19 @@
+
+
+
+<group> seq_length=2 //short harmonics
+off_mode=normal
+ampeg_attack=0.001
+ampeg_release=1
+
+volume=12
+
+<region>seq_position=1 sample=harmonics\55_short_1.wav lokey=0 hikey=58 pitch_keycenter=55
+<region>seq_position=1 sample=harmonics\62_short_1.wav lokey=59 hikey=65 pitch_keycenter=62
+<region>seq_position=1 sample=harmonics\69_short_1.wav lokey=66 hikey=72 pitch_keycenter=69
+<region>seq_position=1 sample=harmonics\76_short_1.wav lokey=73 hikey=127 pitch_keycenter=76
+
+<region>seq_position=2 sample=harmonics\55_short_2.wav lokey=0 hikey=58 pitch_keycenter=55
+<region>seq_position=2 sample=harmonics\62_short_2.wav lokey=59 hikey=65 pitch_keycenter=62
+<region>seq_position=2 sample=harmonics\69_short_2.wav lokey=66 hikey=72 pitch_keycenter=69
+<region>seq_position=2 sample=harmonics\76_short_2.wav lokey=73 hikey=127 pitch_keycenter=76
